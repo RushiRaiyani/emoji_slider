@@ -1,6 +1,6 @@
 name: emoji_slider
 description: "A customizable Flutter emoji slider using animated_emoji package."
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/RushiRaiyani/emoji_slider
 repository: https://github.com/RushiRaiyani/emoji_slider
 issue_tracker: https://github.com/RushiRaiyani/emoji_slider/issues
